@@ -14,7 +14,7 @@ import Animals.Animal;
 public class Connector {
 	private static final String url = "jdbc:mysql://localhost:3306/nursery";
 	private static final String username = "root";
-	private static final String password = "slash1702";
+	private static final String password = "********";
 	
 	private static Connection con;
 	private static Statement stmt;
